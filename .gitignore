@@ -1,0 +1,16 @@
+*.db
+*.csv
+*.gcda
+*.gcno
+*.exe
+*.o
+*.old
+*.pyc
+*.so
+*.vglog
+callgrind.out.*
+dhat.out.*
+massif.out.*
+vglog*
+._*
+
